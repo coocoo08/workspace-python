@@ -26,7 +26,7 @@ source = bs4.BeautifulSoup(source)
 #print(source)
 
 # prettify() 함수는 HTML source를 tab을 기준으로 예쁘게 보여줌
-source = source.prettify()
+#source = source.prettify()
 #print(source)
 
 # 우리가 찾고 싶은 데이터는 검사 기능을 통해서 td class = "number_1"에 있는 것 확인함
